@@ -18,7 +18,7 @@ A comparison of four different techniques for detecting duplicate values in an a
 | Time   | O(n²) |
 | Space  | O(1)  |
 
-**💻 Implementation:** [`BruteForce.java`](/BruteForce.java)
+**💻 Implementation:** [`BruteForce.java`](1. Contains Duplicate/BruteForce.java)
 
 ---
 
